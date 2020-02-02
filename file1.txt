@@ -1,1 +1,1 @@
-This is file-1. GIT is Fun.
+This is file-1. GITHUB is Fun.
